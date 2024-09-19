@@ -10,9 +10,9 @@ output: html_document
 ## About me {.tabset}
 
 
-<iframe src="./CV2024.pdf" width="100%" height="500px">
+<iframe src="./pdf/CV2024.pdf" width="100%" height="500px">
     Your browser does not support embedded PDFs. 
-    You can <a href="./CV2024.pdf">download the PDF</a> instead.
+    You can <a href="./pdf/CV2024.pdf">download the PDF</a> instead.
 </iframe>
 
 ### Work Experience
@@ -72,9 +72,9 @@ Models to evaluate on-treatment effects differences between anti-IgE naive and e
 
 The Oxford Hip Score (OHS) is a joint-specific, patient-reported outcome measure designed to assess disability in patients undergoing total hip replacement
 
-<iframe src="./ohs_analysis.pdf" width="100%" height="500px">
+<iframe src="./pdf/ohs_analysis.pdf" width="100%" height="500px">
     Your browser does not support embedded PDFs. 
-    You can <a href="./ohs_analysis.pdf">download the PDF</a> instead.
+    You can <a href="./pdf/ohs_analysis.pdf">download the PDF</a> instead.
 </iframe>
 
 #### Columbia University Irving Medical Center, Obstetrics & Gynecology New York, United States
