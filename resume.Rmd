@@ -1,0 +1,133 @@
+---
+title: "Resume"
+
+output: html_document
+---
+<center>
+
+
+
+## About me {.tabset}
+
+
+<iframe src="./CV2024.pdf" width="100%" height="500px">
+    Your browser does not support embedded PDFs. 
+    You can <a href="./CV2024.pdf">download the PDF</a> instead.
+</iframe>
+
+### Work Experience
+
+####  Amgen, Clinical Biomarkers and Diagnostics, United States
+Data scientist (R, Python, Jupyter notebook, Gitlab, SQL, Gitlab, bash command)
+May 2019
+ Oct 2021- Jun 2024 
+
+##### Biomarker ETL: (Python)
+
+● Possesses a fundamental understanding of ADaM and SDTM data standards and clinical domains and
+Managed diverse biomarker assay types, including Blood samples, Circulating Tumor Cells, immunohistochemistry, and SLD (tumor diameter).
+
+● Harmonized immunoassay, flow cytometry data, and lab data and integrate with patients' infusion and
+adverse event timepoints, delivering over 7 indications for 13 programs.
+
+##### Association pipeline & visualization for clinical data: (R, bash)
+
+● Led the development and maintenance of the association pipeline, automating functions to generate dynamic statistical insights for analytes in biomarker clinical data, Olink, proteomics, RNA, and DNA data.
+
+● Associated safety and efficacy endpoints with analyte data to explore data-driven univariate analysis, including baseline and various on-treatment settings.
+
+● Delivered 400 reports across programs and provided systematic comparisons for endpoints across different indications, including blincyto, tarlatamab, BiTE.
+
+● Created uniformed journal quality visualization for association pipeline’s scientific findings in R and Python and implemented code for quality control in regular updates.
+  
+##### Machine learning for adverse event predictive model: (Python, R)
+
+
+● Established a pipeline for constructing predictive models capable of explaining clinical data, integrating
+cross-validation methods, and employing various machine learning classification techniques, including
+Random Forest (RF) and XGBoost.
+
+● Conducted preprocessing of priority baseline/on-treatment biomarker features using an ensemble ranking
+system and managed data imputation and labeling through cross-validations. Selected features based on
+Lasso Regression, Elastic net, etc.
+
+● Developed a comprehensive report integrating visualizations to highlight feature importance in various
+classification for performance assessment and key biomarkers. Survival analysis pipeline & visualization for clinical data: (R, bash)
+
+● Conducted survival analysis using censored patient data as endpoints, extending findings in various analytes, including clinical biomarkers, RNA TPM data, and gene function in DNA data.
+
+● Produced visual representations including Kaplan-Meier curve with logrank test statistics and a forest plot showing hazard ratios, and generated summarized test statistics table for the analysis.
+
+##### Analysis for biomarker and diagnostic development: (R, bash)
+
+● Collaborated with the team to optimize the biomarker analysis plan for Tezepelumab Phase 2b efficacy and
+safety evaluation, monitored and QC'd biomarker sample collection data routinely with the global biomarker operation lead.
+
+● Incorporated patient stratification at baseline using inflammatory cytokines and Employed Linear Mixed
+Models to evaluate on-treatment effects differences between anti-IgE naive and experienced patients.
+
+### Research experience
+
+#### Association analysis for Oxford Hip Score 
+
+The Oxford Hip Score (OHS) is a joint-specific, patient-reported outcome measure designed to assess disability in patients undergoing total hip replacement
+
+<iframe src="./ohs_analysis.pdf" width="100%" height="500px">
+    Your browser does not support embedded PDFs. 
+    You can <a href="./ohs_analysis.pdf">download the PDF</a> instead.
+</iframe>
+
+#### Columbia University Irving Medical Center, Obstetrics & Gynecology New York, United States
+
+(Dock, Bigdata Query, SQL,Excel Pivot,R) July 2020
+
+● Utilized docker, R,SQL to perform ETL process for the preterm birth lead variant dataset from UK biobank.
+
+● Expanded candidate variant using LD blocks and run variant effect prediction, Phewas analysis and pathway analysis.
+
+● Identify the any tissue specific SNPs cluster in different enhancer and promoter types within reproductive tissue. Conduct statistical tests to detect enhancer and promoter enriched regions.
+
+● Using HiC ATAC-seq signal data to identify preterm birth related promoter and enhancer region and focusing on finding the promoter-promter interaction
+
+● Employing fisher exact test for enrichment analysis for eQTL data in the cohort preterm birth.
+
+### Education
+
+<img src="./images/image2.JPG" style="width:50%">
+
+#### Columbia University, Mailman School of Public Health, New York, NY
+Master of Science in Biostatistics                                                                                                                             August 2019 – April 2021
+
+● Computational Skills: R, Python, SAS, Sql
+
+#### University of Illinois at Urbana-Champaign	Champaign-Urbana, IL
+Bachelor of Science in Actuarial Science and Statistic                                                                              	          August 2015 – May 2019
+
+●	Computational Skills: R, SAS
+
+
+
+### Selected Courses
+
+●	Data Mining, Relational Database & SQL Programming, Data Science, Longitudinal Data, Statistical Inference, Biostatistical Methods I & II, The Latent-Variable Structure & Modeling
+
+●	Linear Algebra and Financial Applications, Methods of Applied Statistics, Applied Regression and Design, Applied Bayesian Analysis
+
+### Life as graduate students
+
+#### Data Science project
+
+
+</br>
+
+
+please view my screencast for [it](https://jesse925.github.io/p8105_final_project/) here:
+
+```{r echo=FALSE}
+library("htmltools")
+library("vembedr")
+embed_url("https://www.youtube.com/watch?v=7tEiZqX-DDY")
+```
+
+
+

@@ -1,0 +1,11 @@
+---
+title: "Bingkun Luo"
+
+output: html_document
+---
+
+Welcome to my VERY FIRST personal website!
+
+## About me
+
+[Resume](resume.html)

@@ -1,0 +1,13 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  right:
+    - text: "About me"
+      href: resume.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<luo.bingkun@outlook.com>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    theme: readable
