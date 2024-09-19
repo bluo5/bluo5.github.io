@@ -3,7 +3,7 @@ output_dir: "."
 navbar:
   right:
     - text: "About me"
-      href: resume.html
+      href: index.html
     - icon: fa-envelope fa-lg
       href: mailto:<luo.bingkun@outlook.com>
 output:
