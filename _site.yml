@@ -1,9 +1,7 @@
 name: ""
-output_dir: "."
+output_dir: "static"
 navbar:
   right:
-    - text: "About me"
-      href: index.html
     - icon: fa-envelope fa-lg
       href: mailto:<luo.bingkun@outlook.com>
 output:
