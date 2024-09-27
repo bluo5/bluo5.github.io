@@ -9,10 +9,11 @@ output: html_document
 
 ## About me {.tabset}
 
-<iframe src="https://1drv.ms/b/s!AjCihZ2eduDWeG5oQZtNJXxYcD4?embed=1&em=2" width="100%" height="500px">
-    Browser does not support embedded PDFs. 
-    You can <a href="https://1drv.ms/b/s!AjCihZ2eduDWeKdGlhZjBDt351A?e=thj4S6">download the PDF</a> instead.
-</iframe>
+
+<iframe src="https://1drv.ms/b/c/d6e0769e9d85a230/IQTOu2TYGPhrRLw3Wqn5tCifAY8VyjOvE-1biJ5Q5SSiMEQ" width="100%" height="500px">
+    Browser does not support embedded PDFs.
+    You can <a href="https://1drv.ms/b/c/d6e0769e9d85a230/Ec67ZNgY-GtEvDdaqfm0KJ8B_JklDvotScnYRDcKA9vk7g?e=3AxrPn">download the PDF</a> instead.
+    </iframe>
 
 
 ### Work Experience
