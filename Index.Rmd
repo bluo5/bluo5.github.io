@@ -10,10 +10,13 @@ output: html_document
 ## About me {.tabset}
 
 
-<iframe src="https://1drv.ms/b/c/d6e0769e9d85a230/IQTOu2TYGPhrRLw3Wqn5tCifAY8VyjOvE-1biJ5Q5SSiMEQ" width="100%" height="500px">
-    Browser does not support embedded PDFs.
-    You can <a href="https://1drv.ms/b/c/d6e0769e9d85a230/Ec67ZNgY-GtEvDdaqfm0KJ8B_JklDvotScnYRDcKA9vk7g?e=3AxrPn">download the PDF</a> instead.
-    </iframe>
+<!-- <iframe src="https://1drv.ms/b/c/d6e0769e9d85a230/IQRuRYcyeGk4SbI8FDR35G4rATgHuzBo8jn3fvdw5FOeV1s" width="100%" height="500px"> -->
+<!--     Browser does not support embedded PDFs. -->
+<!--     You can <a href="https://1drv.ms/b/c/d6e0769e9d85a230/Ec67ZNgY-GtEvDdaqfm0KJ8B_JklDvotScnYRDcKA9vk7g?e=3AxrPn">download the PDF</a> instead. -->
+<!--     </iframe> -->
+    
+<iframe src="./static/docs/Bingkun Luo-CV.pdf" style="width:600px; height:500px;" frameborder="0"></iframe>
+    
 
 
 ### Work Experience
@@ -73,7 +76,10 @@ Models to evaluate on-treatment effects differences between anti-IgE naive and e
 
 The Oxford Hip Score (OHS) is a joint-specific, patient-reported outcome measure designed to assess disability in patients undergoing total hip replacement
 
-<iframe src="https://1drv.ms/b/s!AjCihZ2eduDWeaW6C8xKJRiUmJM?embed=1&em=2" width="100%" height="450px" ></iframe>
+<!-- <iframe src="https://1drv.ms/b/s!AjCihZ2eduDWeaW6C8xKJRiUmJM?embed=1&em=2" width="100%" height="450px" ></iframe> -->
+
+
+<iframe src="./static/docs/ohs_analysis.pdf" width="100%" height="450px" ></iframe>
 
 #### Columbia University Irving Medical Center, Obstetrics & Gynecology New York, United States
 
