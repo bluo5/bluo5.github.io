@@ -15,7 +15,7 @@ output: html_document
 <!--     You can <a href="https://1drv.ms/b/c/d6e0769e9d85a230/Ec67ZNgY-GtEvDdaqfm0KJ8B_JklDvotScnYRDcKA9vk7g?e=3AxrPn">download the PDF</a> instead. -->
 <!--     </iframe> -->
     
-<iframe src="./static/docs/Bingkun Luo-CV.pdf" style="width:600px; height:500px;" frameborder="0"></iframe>
+<iframe src="./static/docs/Bingkun_Luo-CV-biostats.pdf" style="width:600px; height:500px;" frameborder="0"></iframe>
     
 
 
